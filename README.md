@@ -10,4 +10,4 @@ A responsive, accessible profile card built with plain HTML, CSS, and JS.
 
 ## 💻 Run Locally
 1. Clone this repo  
-2. Open `index.html` in your browser
+2. Open `file:///C:/Users/ikaka/OneDrive/Desktop/profileCard/index.html` in your browser
